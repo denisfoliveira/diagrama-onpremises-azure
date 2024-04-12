@@ -61,7 +61,7 @@ Para atender às necessidades de conectividade sem fio em diferentes áreas da n
 ## Autenticação
 
 ### Autenticação Centralizada e Segura com LDAP via FortiGate:
-Para garantir um acesso à rede seguro e controlado, implementamos a autenticação centralizada utilizando o protocolo LDAP (Lightweight Directory Access Protocol) através do nosso firewall FortiGate. Este sistema permite a integração com o nosso servidor Active Directory (AD), permitindo aos usuários fazerem login na rede utilizando suas credenciais do AD. Isso simplifica o gerenciamento de contas de usuário e reforça a segurança da nossa rede, ao mesmo tempo em que proporciona uma experiência de login transparente para os usuários.
+Para garantir um acesso à rede segura e controlada, implementamos a autenticação centralizada utilizando o protocolo LDAP (Lightweight Directory Access Protocol) através do nosso firewall FortiGate. Este sistema permite a integração com o nosso servidor Active Directory (AD), permitindo aos usuários fazerem login na rede utilizando suas credenciais do AD. Isso simplifica o gerenciamento de contas de usuário e reforça a segurança da nossa rede, ao mesmo tempo em que proporciona uma experiência de login transparente para os usuários.
 
 ### Conexão Segura com Azure via VPN Site-to-Site:
 Estabelecemos uma conexão VPN Site-to-Site com a plataforma Azure da Microsoft, criando um túnel seguro entre a nossa rede local e a infraestrutura de nuvem do Azure. Essa conexão permite uma comunicação segura e confiável entre os recursos locais e os serviços hospedados na nuvem do Azure, facilitando a expansão dos nossos sistemas e aplicativos para a nuvem de forma transparente e segura.

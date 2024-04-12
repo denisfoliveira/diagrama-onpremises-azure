@@ -1,0 +1,5 @@
+https://www.fortinet.com/content/dam/fortinet/assets/data-sheets/fortiap-series.pdf
+
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/gateway/application-gateway-before-azure-firewall
+
+https://learn.microsoft.com/pt-br/azure/devops/pipelines/architectures/devops-pipelines-devtest-iaas-architecture?view=azure-devops
